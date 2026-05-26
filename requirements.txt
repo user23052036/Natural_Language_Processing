@@ -4,3 +4,5 @@ pandas
 scikit-learn
 kaggle
 textblob
+emoji
+spacy
